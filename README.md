@@ -1,4 +1,4 @@
-### Problem Statement & Approach
+## Problem Statement & Approach
 This project focuses on identifying malicious and benign network traffic using machine learning. The main objective was to build a reliable intrusion detection model capable of classifying network flows accurately using the features provided in the EGSPEC CyberGuard 2026 dataset.
 
 The workflow followed in this project was:
